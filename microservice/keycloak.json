@@ -1,5 +1,5 @@
 {
-  "realm": "react-app",
+  "realm": "dna",
   "auth-server-url": "http://localhost:8080/auth/",
   "resource": "nodejs",
   "bearerOnly": true,
