@@ -1,5 +1,5 @@
 {
-  "realm": "react-app",
+  "realm": "dna",
   "auth-server-url": "http://localhost:8080/auth/",
   "ssl-required": "external",
   "resource": "react-app-1",
